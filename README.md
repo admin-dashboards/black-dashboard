@@ -4,7 +4,7 @@
 
 <br />
 
-## [Black Dashboard](https://appseed.us/black-dashboard) - Artcile Links
+## [Black Dashboard](https://appseed.us/black-dashboard) - Links
 
 - [Black Dashboard](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200) - BS4 Version
 - [Black Dashboard - React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) - MIT License
@@ -87,6 +87,23 @@ This version of Black Dashboard is a super simple Django starter coded with mini
 <br />
 
 ![Black Dashboard - Django Version, main dashboard the light layout.](https://raw.githubusercontent.com/admin-dashboards/black-dashboard/master/media/black-dashboard-django-template.png)
+
+<br />
+
+## [Black Dashboard - Jinja template](https://github.com/app-generator/jinja2-black-dashboard)
+
+For newcomers, Jinja is a modern template engine used in well-known frameworks like Flask and Django. The similarities with other popular engines (Ejs, Nunjunks) make this open-source template project a good candidate for your Node.js or Eleventy projects. 
+
+<br />
+
+> Black Dashboard Jinja - Links
+
+- [Black Dashboard - Jinja Demo](https://jinja2-black-dashboard.appseed.us/), the LIVE deployment
+- [Black Dashboard - Jinja](https://github.com/app-generator/jinja2-black-dashboard), the source code
+
+<br />
+
+![Black Dashboard - Jinja Version.](https://raw.githubusercontent.com/admin-dashboards/black-dashboard/master/media/black-dashboard-jinja-template.png)
 
 <br />
 
