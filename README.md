@@ -1,6 +1,6 @@
 # [Black Dashboard](https://appseed.us/black-dashboard)
 
-> A curated list with resources - Initialy published on Dev: [Black Dashboard](https://dev.to/sm0ke/black-dashboard-coded-in-react-vue-jinja-flask-and-django-2i8d) - Black Dashboard - Coded in React, Vue, Jinja, Flask, and Django
+> A curated list with resources - Initialy published on Dev: **[Black Dashboard](https://dev.to/sm0ke/black-dashboard-coded-in-react-vue-jinja-flask-and-django-2i8d) -  Coded in React, Vue, Jinja, Flask, and Django**
 
 <br />
 
